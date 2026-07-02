@@ -102,7 +102,7 @@ Target:
 
 ## 👨‍💻 Author
 
-**Jitendra Kumar Paswan**
+**mayank kumar**
 
 B.Tech (Artificial Intelligence & Data Science)
 
